@@ -1,3 +1,4 @@
-x=[100,2.34,True]
-print(x[-1])#True
-print(x[3])#IndexError
+def sum(x,y):
+    print(x+y)
+
+sum(4,5)
